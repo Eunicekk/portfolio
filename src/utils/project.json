@@ -5,7 +5,7 @@
 		"duration": "2024-07-02 ~ 2024-08-16",
 		"role": "팀장 / 메인, 로그인 및 회원가입, 사전 및 현장 예약, 후기 작성 및 조회 구현",
 		"description": "팝업스토어 정보를 조회하는 순간부터 방문하는 순간까지, 팝업스토어의 모든 것을 한 번에 볼 수 있는 커뮤니티 서비스",
-		"image": "src/assets/images/poppin.jpeg",
+		"image": "/images/poppin.jpeg",
 		"languages": ["React", "TypeScript", "Zustand"],
 		"link": "https://github.com/Eunicekk/Poppin"
 	},
@@ -15,7 +15,7 @@
 		"duration": "2024-04-30 ~ 2024-05-23",
 		"role": "전체 기능 프론트엔드 개발 담당",
 		"description": "홈 트레이닝을 위한 운동 콘텐츠 시청 및 운동 기록 서비스",
-		"image": "src/assets/images/sweathome.png",
+		"image": "/images/sweathome.png",
 		"languages": ["Vue.js", "JavaScript", "Pinia"],
 		"link": "https://github.com/Eunicekk/SWEATHOME"
 	},
@@ -25,7 +25,7 @@
 		"duration": "2023-06-12 ~ 2023-07-14",
 		"role": "팀장 / 메인, 헤어샵(CRUD), 케어샵(CRUD), 장바구니 및 구매 완료, 결제 구현",
 		"description": "헤어 스타일 및 케어를 위한 헤어 전문 서비스",
-		"image": "src/assets/images/hairnada.jpg",
+		"image": "/images/hairnada.jpg",
 		"languages": ["Java", "Spring Boot", "Oracle", "MyBatis", "JavaScipt", "JQuery"],
 		"link": "https://github.com/Eunicekk/hairnada_backup"
 	}
